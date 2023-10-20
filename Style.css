@@ -1,0 +1,52 @@
+h1{
+    color: rgb(253, 97, 7);
+    text-align: center;
+    font-size: 90px;
+}
+p{
+    color: rgb(199, 29, 29);
+    font-size: 40px;
+}
+body{
+    background-color: brown;
+}
+img{
+    
+    height: 80px;
+    width: 600x;
+}
+a{
+    text-decoration: none;
+    border: 5px solid rgb(173, 64, 13);
+    border-radius: 10px;
+    background-color: black;
+    color: brown;
+    padding: 100px;
+    width: 100px;
+    
+    text-align: center;
+    font-size: 50px;
+}
+header{
+    height: 6%;
+    background-color: rgb(80, 21, 21);
+    margin: 10PX;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+    height: 60%;
+    background-color: bisque;
+    margin: 10PX;
+}
+footer{
+    height: 10%;
+    background-color: rgb(136, 51, 17);
+    margin: 10PX;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+.name{color: blanchedalmond;}
+a:hover{background-color: rgb(87, 27, 27);}
